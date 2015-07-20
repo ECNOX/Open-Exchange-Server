@@ -1,2 +1,1 @@
-# Open-Exchange-Server
-ECN Open Exchange Server
+# Open Alternative Trading System (Open ATS)
